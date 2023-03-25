@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @stepiglia
-- 👀  I’m interested in App Development & Crypto projects with real world impact 
+- 👀  I’m interested in App Development 
 - 🌱  I’m currently learning Python, Javascript & Git 
 - 💞️  I’m looking to collaborate on  App Development & Crypto projects
 - 📫  How to reach me [twitter.com/stepiglia_](https://www.twitter.com/stepiglia_)
