@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @stepiglia
 - 👀  I’m interested in App Development 
 - 🌱  I’m currently learning Python, Javascript & Git 
-- 💞️  I’m looking to collaborate on  App Development & Crypto projects
+- 💞️  I’m looking to collaborate on  App Development projects with an AI component
 - 📫  How to reach me [twitter.com/stepiglia_](https://www.twitter.com/stepiglia_)
 
 <!---
