@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently learning Python, Prompt Engineering & general computer science topics  
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/644065d3e272577374929eb9?variant=light&roadmaps=computer-science%2Csql%2Cprompt-engineering%2Cai-data-scientist)](https://roadmap.sh)
+[[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/644065d3e272577374929eb9?variant=light&roadmaps=computer-science%2Csql%2Cprompt-engineering%2Cai-data-scientist)](https://roadmap.sh)](https://api.roadmap.sh/v1-badge/tall/644065d3e272577374929eb9?variant=dark&roadmaps=javascript%2Cpython%2Ccomputer-science%2Csql)
 
 <!---
 stepiglia/stepiglia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
